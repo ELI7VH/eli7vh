@@ -2,7 +2,7 @@
 
 My name is Elijah Lucian (E-Lie-Jah Loo-Shin) from Calgary, AB, Canada! I love to solve big problems with simple systems! A good data model is everything, Rails is life, React is dank! AI is the future.
 
-### Aboot me
+### Aboot me 
 
 - 🔭 I’m currently working on like 10 projects...
 - 🌱 I’m currently learning Rust & C#
