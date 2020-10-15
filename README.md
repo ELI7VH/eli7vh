@@ -8,7 +8,7 @@ My name is Elijah Lucian (E-Lie-Jah Loo-Shin) from Calgary, AB, Canada! I love t
 - 🌱 I’m currently learning Rust & C#
 - 👯 I’m looking to collaborate on anything that involves generating stuff with code!
 - 🤔 I’m looking for help with machine learning.
-- 💬 Ask me about anything!
+- 💬 Ask me about my idea of a perfect world!
 - ⚡ Fun fact: I wrote a song that won me a year worth of free beer!
 
 If you want to see fun projects I am working on, check out [Dank Inc](https://github.com/dank-inc/)
