@@ -18,7 +18,7 @@ My name is Elijah Lucian (E-Lie-Jah Loo-Shin) from Calgary, AB, Canada. I'm an e
 
 To see fun projects I am working on, check out [Dank Inc](https://github.com/dankinc)! You can also listen to my [music:](https://linktr.ee/eli7vh).
 
-Most of my code is over at [GitLab](https://gitlab.com/elijahlucian), where you can see the inner workings of my projects and understand my approach to problem-solving. 
+I have a lot of legacy projects over on [GitLab](https://gitlab.com/elijahlucian), where you can see the inner workings of my projects and understand my approach to problem-solving, maybe get inspired? 
 
 For a more comprehensive insight into who I am and what I do, I sporadically post on social media, and my [Linktree](https://linktr.ee/eli7vh) is a great starting point.
 
