@@ -16,7 +16,7 @@ My name is Elijah Lucian (E-Lie-Jah Loo-Shin) from Calgary, AB, Canada. I'm an e
 💅 Fun Fact 2: I like to use emojis as commit messages.
 🔍 Fun Fact 3: I rebel against the rule of threes.
 
-To see fun projects I am working on, check out [Dank Inc](https://github.com/dankinc)! You can also listen to my music on [SoundCloud](https://soundcloud.com/elijahlucian).
+To see fun projects I am working on, check out [Dank Inc](https://github.com/dankinc)! You can also listen to my [music:](https://linktr.ee/eli7vh).
 
 Most of my code is over at [GitLab](https://gitlab.com/elijahlucian), where you can see the inner workings of my projects and understand my approach to problem-solving. 
 
