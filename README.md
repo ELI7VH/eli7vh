@@ -8,4 +8,4 @@ Under Lucian Labs, I build in two directions. Outward-facing creative tools: ban
 
 The lab is at lucianlabs.ca — ongoing experiments in agentic tooling, generative systems, and creative infrastructure.
 
-Voice credits: AWAKE, Stranded Deep, Skyrim and New Vegas community mods. Music: BoyBitch, Flowshine.
+Voice credits: AWAKE, Stranded Deep, Skyrim and New Vegas community mods. Music: James Ground (current), BoyBitch, Flowshine.
