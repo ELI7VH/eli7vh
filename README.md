@@ -1,9 +1,7 @@
-Hello — I’m Elijah Lucian, a full-stack engineer focused on Rails, TypeScript, and clean data-model design. Seventeen years self-taught, centered on turning messy systems into coherent full-stack implementations. My work spans app architecture, search systems, and AI-assisted tooling for creator and legal-tech environments.
+Creative technologist. I write code, music, and voice characters — usually for the same project.
 
-Currently building multi-app ecosystems, refining agentic workflows, and maintaining several experimental projects under Dank Inc.
-Learning track: VR/AR pipelines and real-time interaction systems.
+Seventeen years self-taught. The work is generative art systems, audio tooling, and agentic infrastructure built to run my own creative practice — not someone else's product.
 
-Collaboration interests include TypeScript migrations, API and service design, and systems where simplicity outperforms scale.
-Music and visual work live at my Linktree.
+Under Lucian Labs, I maintain open source tools at the intersection of code and creativity: banger (browser noise synthesis), sketchy (generative drawing frameworks), lewps, super-mouse, numbaz. On the more personal side: ThinAmp is a desktop audio player I built for myself, relay routes OSC and WebSocket between Ableton and everything else I run live, and GroundControl is my cross-machine agent coordination system.
 
-GitHub: ongoing experiments, prototypes, and full-stack systems in active development.
+Voice credits: AWAKE, Stranded Deep, Skyrim and New Vegas community mods. Music: BoyBitch, Flowshine.
