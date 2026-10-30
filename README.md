@@ -56,19 +56,7 @@ No quantize, no timeline, no perfection.
 
 ## ◇ Work
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://eli7vh.github.io/triangulation/"><img src="media/generative.gif" width="100%" alt="generative art: GLSL, three.js, WebXR, p5.js"></a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://waveloop.app"><img src="media/audio.gif" width="100%" alt="audio tooling: Reaper, Web Audio, OSC, MIDI"></a>
-    </td>
-    <td width="33%" valign="top">
-      <img src="media/agents.gif" width="100%" alt="agentic infra: Rust, llama.cpp, local models, handoff queues">
-    </td>
-  </tr>
-</table>
+<p align="center"><a href="https://eli7vh.github.io/triangulation/"><img src="media/generative.gif" width="33%" alt="generative art: GLSL, three.js, WebXR, p5.js"></a><a href="https://waveloop.app"><img src="media/audio.gif" width="33%" alt="audio tooling: Reaper, Web Audio, OSC, MIDI"></a><a href="media/agents.gif"><img src="media/agents.gif" width="33%" alt="agentic infra: Rust, llama.cpp, local models, handoff queues"></a></p>
 
 <br>
 
