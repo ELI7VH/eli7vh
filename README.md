@@ -58,17 +58,6 @@ A family of loopers, samplers and recorders that share one rail: what one app ca
 
 <p align="center"><a href="https://open.spotify.com/playlist/19jA0GjLnbAevB3ZjIyUgf"><img src="media/spotify-playlist.jpg" width="50%" alt="Deconstructed Pylons on Spotify"></a><a href="https://open.spotify.com/album/1f0posX5b9JpoULXhY7Zig"><img src="media/spotify-album.jpg" width="50%" alt="Chill Brain Sounds on Spotify"></a></p>
 
-<table>
-  <tr>
-    <td><b>James Ground</b></td>
-    <td>current</td>
-  </tr>
-  <tr>
-    <td><b>Elijah Lucian</b></td>
-    <td><a href="https://eli7vh.github.io/radio/">listen →</a></td>
-  </tr>
-</table>
-
 ## ◎ Voice
 
 **AWAKE** · **Stranded Deep** · **Skyrim** and **New Vegas** community mods
