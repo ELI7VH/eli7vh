@@ -56,6 +56,8 @@ A family of loopers, samplers and recorders that share one rail: what one app ca
 
 <a href="https://eli7vh.github.io/radio/"><img src="media/radio.png" width="100%" alt="radio"></a>
 
+<p align="center"><a href="https://open.spotify.com/playlist/19jA0GjLnbAevB3ZjIyUgf"><img src="media/spotify-playlist.jpg" width="50%" alt="Deconstructed Pylons on Spotify"></a><a href="https://open.spotify.com/album/1f0posX5b9JpoULXhY7Zig"><img src="media/spotify-album.jpg" width="50%" alt="Chill Brain Sounds on Spotify"></a></p>
+
 <table>
   <tr>
     <td><b>James Ground</b></td>
