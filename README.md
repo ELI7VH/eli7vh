@@ -38,7 +38,7 @@ Seventeen years self-taught. Generative art systems, audio tooling, and agentic 
 
 ## ◇ Work
 
-<p align="center"><a href="https://eli7vh.github.io/triangulation/"><img src="media/generative.gif" width="33%" alt="generative art: GLSL, three.js, WebXR, p5.js"></a><a href="https://waveloop.app"><img src="media/audio.gif" width="33%" alt="audio tooling: Reaper, Web Audio, OSC, MIDI"></a><a href="media/agents.gif"><img src="media/agents.gif" width="33%" alt="agentic infra: Rust, llama.cpp, local models, handoff queues"></a></p>
+<p align="center"><a href="https://eli7vh.github.io/triangulation/"><img src="media/generative.gif" width="33%" alt="generative art: GLSL, three.js, WebXR, p5.js"></a><a href="https://waveloop.app"><img src="media/audio.gif" width="33%" alt="audio tooling: Reaper, Web Audio, OSC, MIDI"></a><img src="media/agents.gif" width="33%" alt="agentic infra: Rust, llama.cpp, local models, handoff queues"></p>
 
 <br>
 
