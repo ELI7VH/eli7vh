@@ -30,24 +30,16 @@ Seventeen years self-taught. Generative art systems, audio tooling, and agentic 
 
 ## 〰 WaveLoop
 
-[**waveloop.app**](https://waveloop.app) — tape loopers for Reaper that prioritize feel over precision.
-No quantize, no timeline, no perfection.
+[**waveloop.app**](https://waveloop.app) — hit record, hit something, play it.
+A family of loopers, samplers and recorders that share one rail: what one app catches, the others can play.
 
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <!-- <img src="media/x1.png" width="100%"> -->
-      <b>x1</b>
-    </td>
-    <td width="33%" align="center">
-      <!-- <img src="media/x4.png" width="100%"> -->
-      <b>x4</b>
-    </td>
-    <td width="33%" align="center">
-      <!-- <img src="media/choppa.png" width="100%"> -->
-      <b>Choppa</b>
-    </td>
-  </tr>
+  <tr><td><b>Choppa</b></td><td>mic sampler that chops itself onto pads</td></tr>
+  <tr><td><b>Tide</b></td><td>overdub tape looper, one pass at a time</td></tr>
+  <tr><td><b>Layerz</b></td><td>layering looper that hosts AUv3 effects</td></tr>
+  <tr><td><b>Wake</b></td><td>wakes on sound, keeps only the sound</td></tr>
+  <tr><td><b>infininote</b></td><td>a sketchbook you draw in three dimensions</td></tr>
+  <tr><td><b>X1 · X4</b></td><td>tape loopers for Reaper, Mac, Windows, Linux and a Raspberry Pi</td></tr>
 </table>
 
 <!-- VIDEO: https://github.com/user-attachments/assets/... -->
