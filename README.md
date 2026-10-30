@@ -65,9 +65,7 @@ No quantize, no timeline, no perfection.
       <a href="https://waveloop.app"><img src="media/audio.gif" width="100%" alt="audio tooling: Reaper, Web Audio, OSC, MIDI"></a>
     </td>
     <td width="33%" valign="top">
-      <!-- <img src="media/agents.png" width="100%"> -->
-      <h3>agentic infra</h3>
-      <kbd>Rust</kbd> <kbd>llama.cpp</kbd> <kbd>local models</kbd> <kbd>handoff queues</kbd>
+      <img src="media/agents.gif" width="100%" alt="agentic infra: Rust, llama.cpp, local models, handoff queues">
     </td>
   </tr>
 </table>
