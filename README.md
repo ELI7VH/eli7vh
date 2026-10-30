@@ -36,7 +36,7 @@ Self-taught, with seventeen years of building across code, music, and visual art
 
 <br>
 
-## ◇ Work
+## ◇ Selected work
 
 <p align="center"><a href="https://eli7vh.github.io/triangulation/"><img src="media/generative.gif" width="33%" alt="generative art: GLSL, three.js, WebXR, p5.js"></a><a href="https://waveloop.app"><img src="media/audio.gif" width="33%" alt="audio tooling: Reaper, Web Audio, OSC, MIDI"></a><img src="media/agents.gif" width="33%" alt="agentic infra: Rust, llama.cpp, local models, handoff queues"></p>
 
@@ -50,9 +50,10 @@ Self-taught, with seventeen years of building across code, music, and visual art
 
 <p align="center"><a href="https://open.spotify.com/playlist/19jA0GjLnbAevB3ZjIyUgf"><img src="media/spotify-playlist.jpg" width="50%" alt="Deconstructed Pylons on Spotify"></a><a href="https://open.spotify.com/album/1f0posX5b9JpoULXhY7Zig"><img src="media/spotify-album.jpg" width="50%" alt="Chill Brain Sounds on Spotify"></a></p>
 
-## ◎ Voice
+## ◎ Voice acting
 
-**AWAKE** · **Stranded Deep** · **Skyrim** and **New Vegas** community mods
+Games: **AWAKE** · **Stranded Deep**<br>
+Community mods: **Skyrim** · **Fallout: New Vegas**
 
 <a href="https://vr.elijahlucian.ca/x/dialogue"><img src="media/gem.jpg" width="100%" alt="talk to the gem"></a>
 
