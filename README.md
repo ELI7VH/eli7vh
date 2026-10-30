@@ -24,7 +24,7 @@
 
 <br>
 
-Seventeen years self-taught. Generative art systems, audio tooling, and agentic infrastructure built to run my own creative practice — not someone else's product.
+Self-taught, with seventeen years of building across code, music, and visual art. I make generative art systems, audio tools, and tools for coordinating AI agents—all built around my own creative practice.
 
 <br>
 
