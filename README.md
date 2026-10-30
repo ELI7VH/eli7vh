@@ -62,9 +62,7 @@ No quantize, no timeline, no perfection.
       <a href="https://eli7vh.github.io/triangulation/"><img src="media/generative.gif" width="100%" alt="generative art: GLSL, three.js, WebXR, p5.js"></a>
     </td>
     <td width="33%" valign="top">
-      <!-- <img src="media/audio.png" width="100%"> -->
-      <h3>audio tooling</h3>
-      <kbd>Reaper</kbd> <kbd>Web Audio</kbd> <kbd>OSC</kbd> <kbd>MIDI</kbd>
+      <a href="https://waveloop.app"><img src="media/audio.gif" width="100%" alt="audio tooling: Reaper, Web Audio, OSC, MIDI"></a>
     </td>
     <td width="33%" valign="top">
       <!-- <img src="media/agents.png" width="100%"> -->
