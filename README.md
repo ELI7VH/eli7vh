@@ -59,9 +59,7 @@ No quantize, no timeline, no perfection.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <!-- <img src="media/generative.png" width="100%"> -->
-      <h3>generative art</h3>
-      <kbd>GLSL</kbd> <kbd>three.js</kbd> <kbd>WebXR</kbd> <kbd>p5.js</kbd>
+      <a href="https://eli7vh.github.io/triangulation/"><img src="media/generative.gif" width="100%" alt="generative art: GLSL, three.js, WebXR, p5.js"></a>
     </td>
     <td width="33%" valign="top">
       <!-- <img src="media/audio.png" width="100%"> -->
