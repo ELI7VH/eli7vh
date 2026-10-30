@@ -54,6 +54,8 @@ A family of loopers, samplers and recorders that share one rail: what one app ca
 
 ## ♪ Music
 
+<a href="https://eli7vh.github.io/radio/"><img src="media/radio.png" width="100%" alt="radio"></a>
+
 <table>
   <tr>
     <td><b>James Ground</b></td>
@@ -61,7 +63,7 @@ A family of loopers, samplers and recorders that share one rail: what one app ca
   </tr>
   <tr>
     <td><b>Elijah Lucian</b></td>
-    <td><a href="https://relay.elijahlucian.ca/radio/listen">listen →</a></td>
+    <td><a href="https://eli7vh.github.io/radio/">listen →</a></td>
   </tr>
 </table>
 
