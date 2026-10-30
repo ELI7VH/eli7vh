@@ -58,19 +58,20 @@ No quantize, no timeline, no perfection.
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" valign="top">
       <!-- <img src="media/generative.png" width="100%"> -->
-      <b>generative art</b>
+      <h3>generative art</h3>
+      <kbd>GLSL</kbd> <kbd>three.js</kbd> <kbd>WebXR</kbd> <kbd>p5.js</kbd>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" valign="top">
       <!-- <img src="media/audio.png" width="100%"> -->
-      <b>audio tooling</b>
+      <h3>audio tooling</h3>
+      <kbd>Reaper</kbd> <kbd>Web Audio</kbd> <kbd>OSC</kbd> <kbd>MIDI</kbd>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="33%" valign="top">
       <!-- <img src="media/agents.png" width="100%"> -->
-      <b>agentic infrastructure</b>
+      <h3>agentic infra</h3>
+      <kbd>Rust</kbd> <kbd>llama.cpp</kbd> <kbd>local models</kbd> <kbd>handoff queues</kbd>
     </td>
   </tr>
 </table>
