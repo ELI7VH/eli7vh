@@ -40,6 +40,8 @@ Self-taught, with seventeen years of building across code, music, and visual art
 
 <p align="center"><a href="https://eli7vh.github.io/triangulation/"><img src="media/generative.gif" width="33%" alt="generative art: GLSL, three.js, WebXR, p5.js"></a><a href="https://waveloop.app"><img src="media/audio.gif" width="33%" alt="audio tooling: Reaper, Web Audio, OSC, MIDI"></a><img src="media/agents.gif" width="33%" alt="agentic infra: Rust, llama.cpp, local models, handoff queues"></p>
 
+<p align="center"><a href="https://melancholiamore.audioscene.space"><img src="media/immersive.gif" width="33%" alt="immersive audio: A-Frame, WebXR, spatial audio, Web Audio"></a><a href="https://facility.quest"><img src="media/facility.gif" width="33%" alt="vr multiplayer gaming: OpenXR, C++, Rust, WebGL2"></a></p>
+
 <br>
 
 ## ♪ Music
