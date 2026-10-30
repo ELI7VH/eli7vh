@@ -54,7 +54,7 @@ A family of loopers, samplers and recorders that share one rail: what one app ca
 
 ## ♪ Music
 
-**sketchbook radio** · streaming live 24/7 · [listen →](https://eli7vh.github.io/radio/)
+**sketchbook radio** · streaming live 24/7 · [listen for free →](https://eli7vh.github.io/radio/)
 
 <a href="https://eli7vh.github.io/radio/"><img src="media/radio.gif" width="100%" alt="radio"></a>
 
