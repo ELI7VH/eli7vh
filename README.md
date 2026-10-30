@@ -30,17 +30,7 @@ Seventeen years self-taught. Generative art systems, audio tooling, and agentic 
 
 ## 〰 WaveLoop
 
-[**waveloop.app**](https://waveloop.app) — hit record, hit something, play it.
-A family of loopers, samplers and recorders that share one rail: what one app catches, the others can play.
-
-<table>
-  <tr><td><b>Choppa</b></td><td>mic sampler that chops itself onto pads</td></tr>
-  <tr><td><b>Tide</b></td><td>overdub tape looper, one pass at a time</td></tr>
-  <tr><td><b>Layerz</b></td><td>layering looper that hosts AUv3 effects</td></tr>
-  <tr><td><b>Wake</b></td><td>wakes on sound, keeps only the sound</td></tr>
-  <tr><td><b>infininote</b></td><td>a sketchbook you draw in three dimensions</td></tr>
-  <tr><td><b>X1 · X4</b></td><td>tape loopers for Reaper, Mac, Windows, Linux and a Raspberry Pi</td></tr>
-</table>
+<a href="https://waveloop.app"><img src="media/waveloop.jpg" width="100%" alt="waveloop, creative audio tools"></a>
 
 <!-- VIDEO: https://github.com/user-attachments/assets/... -->
 
