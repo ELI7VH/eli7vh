@@ -62,6 +62,6 @@ A family of loopers, samplers and recorders that share one rail: what one app ca
 
 **AWAKE** · **Stranded Deep** · **Skyrim** and **New Vegas** community mods
 
-[talk to the gem →](https://vr.elijahlucian.ca/x/dialogue)
+<a href="https://vr.elijahlucian.ca/x/dialogue"><img src="media/gem.jpg" width="100%" alt="talk to the gem"></a>
 
 <!-- VOICE REEL: https://github.com/user-attachments/assets/... -->
